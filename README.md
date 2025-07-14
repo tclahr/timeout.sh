@@ -1,5 +1,8 @@
 # 🕒 timeout.sh - Lightweight Bash-Based Timeout Command
 
+[![Shellcheck](https://github.com/tclahr/timeout.sh/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/tclahr/timeout.sh/actions/workflows/shellcheck.yaml)
+[![GitHub License](https://img.shields.io/github/license/tclahr/timeout.sh?color=blue)](https://github.com/tclahr/timeout.sh/blob/main/LICENSE)
+
 A fast and portable `timeout` command written in POSIX-compliant shell script. Perfect for systems where GNU `timeout` isn't available or when a minimal dependency solution is preferred.
 
 ## 🧭 Overview
